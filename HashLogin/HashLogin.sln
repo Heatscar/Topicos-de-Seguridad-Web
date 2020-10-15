@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashLogin", "HashLogin\HashLogin.csproj", "{03DB2D19-611F-4DAF-97E1-2DB6586F0FEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03DB2D19-611F-4DAF-97E1-2DB6586F0FEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03DB2D19-611F-4DAF-97E1-2DB6586F0FEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03DB2D19-611F-4DAF-97E1-2DB6586F0FEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03DB2D19-611F-4DAF-97E1-2DB6586F0FEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {038C369B-7504-4A5D-BF94-D363BF847F94}
+	EndGlobalSection
+EndGlobal

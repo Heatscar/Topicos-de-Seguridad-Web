@@ -53,7 +53,7 @@ namespace SimpleEncrypt
         {
             if (textBoxPassword.Text == "") return;
             byte[] bytes = Encoding.Unicode.GetBytes(richTextBox1.Text);
-            //Encrypt
+            //Encriptado
             SymmetricAlgorithm crypt = Aes.Create();
             HashAlgorithm hash = MD5.Create();
             crypt.BlockSize = BlockSize;
@@ -74,7 +74,7 @@ namespace SimpleEncrypt
         private void Decrypt_Click(object sender, EventArgs e)
         {
             if (textBoxPassword.Text == "") return;
-            //Decrypt
+            //Desencriptado
             byte[] bytes = Convert.FromBase64String(richTextBox1.Text);
             SymmetricAlgorithm crypt = Aes.Create();
             HashAlgorithm hash = MD5.Create();

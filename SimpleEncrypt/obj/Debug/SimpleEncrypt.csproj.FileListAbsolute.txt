@@ -28,3 +28,13 @@ C:\Users\hecto\Desktop\Desktop\Universidad\Topicos de seguridad web\SimpleEncryp
 C:\Users\hecto\Desktop\Desktop\Universidad\Topicos de seguridad web\SimpleEncrypt\obj\Debug\SimpleEncrypt.csproj.CoreCompileInputs.cache
 C:\Users\hecto\Desktop\Desktop\Universidad\Topicos de seguridad web\SimpleEncrypt\obj\Debug\SimpleEncrypt.exe
 C:\Users\hecto\Desktop\Desktop\Universidad\Topicos de seguridad web\SimpleEncrypt\obj\Debug\SimpleEncrypt.pdb
+C:\Users\hecto\Desktop\Desktop\Universidad\Topicos de seguridad web\Git\Topicos-de-Seguridad-Web\SimpleEncrypt\bin\Debug\SimpleEncrypt.exe.config
+C:\Users\hecto\Desktop\Desktop\Universidad\Topicos de seguridad web\Git\Topicos-de-Seguridad-Web\SimpleEncrypt\bin\Debug\SimpleEncrypt.exe
+C:\Users\hecto\Desktop\Desktop\Universidad\Topicos de seguridad web\Git\Topicos-de-Seguridad-Web\SimpleEncrypt\bin\Debug\SimpleEncrypt.pdb
+C:\Users\hecto\Desktop\Desktop\Universidad\Topicos de seguridad web\Git\Topicos-de-Seguridad-Web\SimpleEncrypt\obj\Debug\SimpleEncrypt.csprojAssemblyReference.cache
+C:\Users\hecto\Desktop\Desktop\Universidad\Topicos de seguridad web\Git\Topicos-de-Seguridad-Web\SimpleEncrypt\obj\Debug\SimpleEncrypt.Form1.resources
+C:\Users\hecto\Desktop\Desktop\Universidad\Topicos de seguridad web\Git\Topicos-de-Seguridad-Web\SimpleEncrypt\obj\Debug\SimpleEncrypt.Properties.Resources.resources
+C:\Users\hecto\Desktop\Desktop\Universidad\Topicos de seguridad web\Git\Topicos-de-Seguridad-Web\SimpleEncrypt\obj\Debug\SimpleEncrypt.csproj.GenerateResource.cache
+C:\Users\hecto\Desktop\Desktop\Universidad\Topicos de seguridad web\Git\Topicos-de-Seguridad-Web\SimpleEncrypt\obj\Debug\SimpleEncrypt.csproj.CoreCompileInputs.cache
+C:\Users\hecto\Desktop\Desktop\Universidad\Topicos de seguridad web\Git\Topicos-de-Seguridad-Web\SimpleEncrypt\obj\Debug\SimpleEncrypt.exe
+C:\Users\hecto\Desktop\Desktop\Universidad\Topicos de seguridad web\Git\Topicos-de-Seguridad-Web\SimpleEncrypt\obj\Debug\SimpleEncrypt.pdb
